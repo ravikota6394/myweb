@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 	<version>8.3.2</version>
 	<name>Java Home myweb</name>
-	<-- Demo on webhook-->
+	<!-- Demo on Github Webhook-->
 	<url>http://maven.apache.org</url>
 	
 	<properties>
